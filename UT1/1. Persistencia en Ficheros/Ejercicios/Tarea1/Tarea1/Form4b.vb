@@ -29,4 +29,5 @@ Public Class frnTarea4b
             MessageBox.Show("se detecta un error genérico " & ex.Message)
         End Try
     End Sub
+    
 End Class

@@ -10,3 +10,6 @@ C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Deb
 C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.frnTarea2.resources
 C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.frnTarea3.resources
 C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.index.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.frnTarea4a.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.frnTarea4b.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea1\Tarea1\obj\x86\Debug\Tarea1.frnTarea5.resources

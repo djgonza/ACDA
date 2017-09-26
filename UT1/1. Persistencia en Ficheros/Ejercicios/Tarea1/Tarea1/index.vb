@@ -19,4 +19,8 @@
     Private Sub Button5_Click(sender As System.Object, e As System.EventArgs) Handles Button5.Click
         frnTarea4b.ShowDialog()
     End Sub
+
+    Private Sub Button6_Click(sender As System.Object, e As System.EventArgs) Handles Button6.Click
+        frnTarea5.ShowDialog()
+    End Sub
 End Class

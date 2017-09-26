@@ -45,4 +45,9 @@ Public Class frnTarea3
         End If
 
     End Sub
+
+    
+    Private Sub frnTarea3_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
 End Class
