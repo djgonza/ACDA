@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\bin\Debug\Directory And DirectoryInfo.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\bin\Debug\Directory And DirectoryInfo.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\bin\Debug\Directory And DirectoryInfo.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory_And_DirectoryInfo.Form1.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory_And_DirectoryInfo.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory And DirectoryInfo.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory And DirectoryInfo.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory And DirectoryInfo.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Directory And DirectoryInfo\Directory And DirectoryInfo\obj\x86\Debug\Directory And DirectoryInfo.pdb

@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\bin\Debug\Leer tabla desde Fichero.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\bin\Debug\Leer tabla desde Fichero.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\bin\Debug\Leer tabla desde Fichero.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer_tabla_desde_Fichero.Form1.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer_tabla_desde_Fichero.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer tabla desde Fichero.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer tabla desde Fichero.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer tabla desde Fichero.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Leer tabla desde Fichero\Leer tabla desde Fichero\obj\x86\Debug\Leer tabla desde Fichero.pdb
