@@ -55,12 +55,12 @@ Public Class Form1
         Dim dir As String = InputBox("Introduce nombre de directorio")
         Dim ext As String = InputBox("Introduce la extension")
         Dim totalArchivos As Integer = 0
-        Dim path As String = "c:/" + dir
+        Dim path As String = "c:\" + dir
         If Directory.Exists(path) Then
 
             contarArchivos(path, ext)
 
-            For Each dirActual As String In Directory.EnumerateDirectories("c:/" + dir).ToArray
+            For Each dirActual As String In Directory.EnumerateDirectories("c:\" + dir).ToArray
 
                 contarArchivos(dirActual, ext)
 
@@ -91,7 +91,7 @@ Public Class Form1
         Dim dir As String = InputBox("Introduce nombre de directorio")
         Dim ext As String = InputBox("Introduce la extension")
         Dim totalArchivos As Integer = 0
-        Dim path As String = "c:/" + dir
+        Dim path As String = "c:\" + dir
         Dim dirBuscado As DirectoryInfo = New DirectoryInfo(path)
         If dirBuscado.Exists() Then
 

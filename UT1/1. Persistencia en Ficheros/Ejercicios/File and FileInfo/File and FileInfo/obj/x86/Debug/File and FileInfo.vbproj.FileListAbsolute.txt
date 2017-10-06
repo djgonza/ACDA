@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\bin\Debug\File and FileInfo.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File_and_FileInfo.Form1.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File_and_FileInfo.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File and FileInfo.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File and FileInfo.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File and FileInfo.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\File and FileInfo\File and FileInfo\obj\x86\Debug\File and FileInfo.pdb
