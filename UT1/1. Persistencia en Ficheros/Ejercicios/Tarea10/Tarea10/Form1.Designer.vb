@@ -29,6 +29,12 @@ Partial Class Form1
         Me.btnCuatro = New System.Windows.Forms.Button()
         Me.btnCinco = New System.Windows.Forms.Button()
         Me.btnSeis = New System.Windows.Forms.Button()
+        Me.btnSiete = New System.Windows.Forms.Button()
+        Me.btnOcho = New System.Windows.Forms.Button()
+        Me.btnNueve = New System.Windows.Forms.Button()
+        Me.btnDiez = New System.Windows.Forms.Button()
+        Me.btnOnce = New System.Windows.Forms.Button()
+        Me.btnDoce = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -96,11 +102,71 @@ Partial Class Form1
         Me.btnSeis.Text = "Ejercicio06"
         Me.btnSeis.UseVisualStyleBackColor = True
         '
+        'btnSiete
+        '
+        Me.btnSiete.Location = New System.Drawing.Point(197, 39)
+        Me.btnSiete.Name = "btnSiete"
+        Me.btnSiete.Size = New System.Drawing.Size(75, 23)
+        Me.btnSiete.TabIndex = 7
+        Me.btnSiete.Text = "Ejercicio07"
+        Me.btnSiete.UseVisualStyleBackColor = True
+        '
+        'btnOcho
+        '
+        Me.btnOcho.Location = New System.Drawing.Point(197, 68)
+        Me.btnOcho.Name = "btnOcho"
+        Me.btnOcho.Size = New System.Drawing.Size(75, 23)
+        Me.btnOcho.TabIndex = 8
+        Me.btnOcho.Text = "Ejercicio08"
+        Me.btnOcho.UseVisualStyleBackColor = True
+        '
+        'btnNueve
+        '
+        Me.btnNueve.Location = New System.Drawing.Point(197, 97)
+        Me.btnNueve.Name = "btnNueve"
+        Me.btnNueve.Size = New System.Drawing.Size(75, 23)
+        Me.btnNueve.TabIndex = 9
+        Me.btnNueve.Text = "Ejercicio09"
+        Me.btnNueve.UseVisualStyleBackColor = True
+        '
+        'btnDiez
+        '
+        Me.btnDiez.Location = New System.Drawing.Point(197, 126)
+        Me.btnDiez.Name = "btnDiez"
+        Me.btnDiez.Size = New System.Drawing.Size(75, 23)
+        Me.btnDiez.TabIndex = 10
+        Me.btnDiez.Text = "Ejercicio10"
+        Me.btnDiez.UseVisualStyleBackColor = True
+        '
+        'btnOnce
+        '
+        Me.btnOnce.Location = New System.Drawing.Point(197, 155)
+        Me.btnOnce.Name = "btnOnce"
+        Me.btnOnce.Size = New System.Drawing.Size(75, 23)
+        Me.btnOnce.TabIndex = 11
+        Me.btnOnce.Text = "Ejercicio11"
+        Me.btnOnce.UseVisualStyleBackColor = True
+        '
+        'btnDoce
+        '
+        Me.btnDoce.Location = New System.Drawing.Point(197, 184)
+        Me.btnDoce.Name = "btnDoce"
+        Me.btnDoce.Size = New System.Drawing.Size(75, 23)
+        Me.btnDoce.TabIndex = 12
+        Me.btnDoce.Text = "Ejercicio12"
+        Me.btnDoce.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.Controls.Add(Me.btnDoce)
+        Me.Controls.Add(Me.btnOnce)
+        Me.Controls.Add(Me.btnDiez)
+        Me.Controls.Add(Me.btnNueve)
+        Me.Controls.Add(Me.btnOcho)
+        Me.Controls.Add(Me.btnSiete)
         Me.Controls.Add(Me.btnSeis)
         Me.Controls.Add(Me.btnCinco)
         Me.Controls.Add(Me.btnCuatro)
@@ -120,5 +186,11 @@ Partial Class Form1
     Friend WithEvents btnCuatro As System.Windows.Forms.Button
     Friend WithEvents btnCinco As System.Windows.Forms.Button
     Friend WithEvents btnSeis As System.Windows.Forms.Button
+    Friend WithEvents btnSiete As System.Windows.Forms.Button
+    Friend WithEvents btnOcho As System.Windows.Forms.Button
+    Friend WithEvents btnNueve As System.Windows.Forms.Button
+    Friend WithEvents btnDiez As System.Windows.Forms.Button
+    Friend WithEvents btnOnce As System.Windows.Forms.Button
+    Friend WithEvents btnDoce As System.Windows.Forms.Button
 
 End Class
