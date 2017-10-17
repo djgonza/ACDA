@@ -35,6 +35,7 @@ Partial Class Form1
         Me.btnDiez = New System.Windows.Forms.Button()
         Me.btnOnce = New System.Windows.Forms.Button()
         Me.btnDoce = New System.Windows.Forms.Button()
+        Me.btnSalir = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
@@ -156,11 +157,21 @@ Partial Class Form1
         Me.btnDoce.Text = "Ejercicio12"
         Me.btnDoce.UseVisualStyleBackColor = True
         '
+        'btnSalir
+        '
+        Me.btnSalir.Location = New System.Drawing.Point(13, 217)
+        Me.btnSalir.Name = "btnSalir"
+        Me.btnSalir.Size = New System.Drawing.Size(259, 23)
+        Me.btnSalir.TabIndex = 13
+        Me.btnSalir.Text = "&Salir"
+        Me.btnSalir.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 261)
+        Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.btnDoce)
         Me.Controls.Add(Me.btnOnce)
         Me.Controls.Add(Me.btnDiez)
@@ -192,5 +203,6 @@ Partial Class Form1
     Friend WithEvents btnDiez As System.Windows.Forms.Button
     Friend WithEvents btnOnce As System.Windows.Forms.Button
     Friend WithEvents btnDoce As System.Windows.Forms.Button
+    Friend WithEvents btnSalir As System.Windows.Forms.Button
 
 End Class

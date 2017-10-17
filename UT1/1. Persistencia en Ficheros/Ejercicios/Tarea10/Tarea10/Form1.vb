@@ -199,6 +199,29 @@ Public Class Form1
     End Sub
 
     Private Sub btnDoce_Click(sender As System.Object, e As System.EventArgs) Handles btnDoce.Click
+        Dim fileName As String = "myfile.ext"
+        Dim path1 As String = "mydir"
+        Dim path2 As String = "\mydir"
+        Dim fullPath As String
 
+        MessageBox.Show("** GetFullPath **")
+        fullPath = Path.GetFullPath(path1)
+        MessageBox.Show("path1 => " + path1 + vbLf + "fullpath => " + fullPath)
+
+        fullPath = Path.GetFullPath(fileName)
+        MessageBox.Show("fileName => " + fileName + vbLf + "fullpath => " + fullPath)
+
+        fullPath = Path.GetFullPath(path2)
+        MessageBox.Show("path2 => " + path2 + vbLf + "fullpath => " + fullPath)
+
+        MessageBox.Show("** Ejemplo Combine **")
+        Dim path3 As String = "c:\temp"
+        Dim path4 As String = "subdir\file.txt"
+        MessageBox.Show("La combinación den path3 => " + path3 + " y path4 => " + path4 + vbLf + "Combinación => " + Path.Combine(path3, path4))
+
+    End Sub
+
+    Private Sub btnSalir_Click(sender As System.Object, e As System.EventArgs) Handles btnSalir.Click
+        Me.Close()
     End Sub
 End Class
