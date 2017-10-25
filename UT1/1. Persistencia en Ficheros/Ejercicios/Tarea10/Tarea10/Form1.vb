@@ -149,8 +149,8 @@ Public Class Form1
             If Path.GetExtension(file) = ".txt" Then
                 MessageBox.Show(file)
             End If
-
         Next
+
     End Sub
 
 

@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\bin\Debug\Tarea 11.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\bin\Debug\Tarea 11.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\bin\Debug\Tarea 11.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea_11.frnVisor.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea_11.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea 11.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea 11.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea 11.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 11\Tarea 11\obj\x86\Debug\Tarea 11.pdb
