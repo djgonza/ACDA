@@ -69,8 +69,12 @@ Public Class Form1
         For Each s In Seleccion
             Dim nombre As String = s.Nombre
             Dim telefono As String = s.Móvil
-            lstConsulta2.Items.Add(nombre + " - " + telefono)
+            lstConsulta2.Items.Add(nombre + " ---- " + telefono)
         Next
 
+    End Sub
+
+    Private Sub btnSalir_Click(sender As System.Object, e As System.EventArgs) Handles btnSalir.Click
+        Me.Dispose()
     End Sub
 End Class

@@ -28,6 +28,7 @@ Partial Class Form1
         Me.btnConsulta2 = New System.Windows.Forms.Button()
         Me.lstConsulta1 = New System.Windows.Forms.ListBox()
         Me.lstConsulta2 = New System.Windows.Forms.ListBox()
+        Me.btnSalir = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'btnCrear
@@ -82,11 +83,21 @@ Partial Class Form1
         Me.lstConsulta2.Size = New System.Drawing.Size(213, 186)
         Me.lstConsulta2.TabIndex = 5
         '
+        'btnSalir
+        '
+        Me.btnSalir.Location = New System.Drawing.Point(15, 120)
+        Me.btnSalir.Name = "btnSalir"
+        Me.btnSalir.Size = New System.Drawing.Size(90, 64)
+        Me.btnSalir.TabIndex = 6
+        Me.btnSalir.Text = "&Salir"
+        Me.btnSalir.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(506, 261)
+        Me.Controls.Add(Me.btnSalir)
         Me.Controls.Add(Me.lstConsulta2)
         Me.Controls.Add(Me.lstConsulta1)
         Me.Controls.Add(Me.btnConsulta2)
@@ -104,5 +115,6 @@ Partial Class Form1
     Friend WithEvents btnConsulta2 As System.Windows.Forms.Button
     Friend WithEvents lstConsulta1 As System.Windows.Forms.ListBox
     Friend WithEvents lstConsulta2 As System.Windows.Forms.ListBox
+    Friend WithEvents btnSalir As System.Windows.Forms.Button
 
 End Class
