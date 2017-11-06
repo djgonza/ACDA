@@ -1,9 +1,9 @@
 ﻿Imports System
 Imports System.IO
 
-Public Class frnTarea03
+Public Class frnTarea04
 
-    Private Sub frnTarea03_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+    Private Sub frnTarea04_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         Dim doc As XDocument = <?xml version="1.0" encoding="UTF-8"?>
                                <Bailes>
                                    <baile id="1">
@@ -69,23 +69,28 @@ Public Class frnTarea03
         'obtener origen de datos
         Dim doc As XDocument = XDocument.Load("bailes.xml")
 
+        Dim texto As String = ""
+
         'Generar la consulta
         Dim Seleccion = _
             From dato In doc...<baile>
-            Where dato.<plazas>.Value > 15
-            Select dato
+            Select <actividad>
+                       <%= dato.<nombre> %>
+                       <%= dato.<precio> %>
+                       <%= dato.<profesor> %>
+                   </actividad>
 
         'Crear el documento bailes2.xml a partir de la consulta
         Dim doc2 As XDocument = <?xml version="1.0" encoding="UTF-8"?>
-                                <Bailes>
+                                <Actividades>
                                     <%= Seleccion %>
-                                </Bailes>
-        doc2.Save("bailes2.xml")
-        Console.WriteLine(File.ReadAllText("bailes2.xml"))
-        MessageBox.Show("Documento bailes2.xml creado!!!")
+                                </Actividades>
+        doc2.Save("Actividades.xml")
+        Console.WriteLine(File.ReadAllText("Actividades.xml"))
+        MessageBox.Show("Documento Actividades.xml creado!!!")
 
         'Cargamos la solucion
-        Dim xmlCargado = XDocument.Load("bailes2.xml")
+        Dim xmlCargado = XDocument.Load("Actividades.xml")
         rtbSolucion.Text = xmlCargado.ToString
     End Sub
 
