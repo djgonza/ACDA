@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\bin\Debug\Tarea 05.exe
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\bin\Debug\Tarea 05.pdb
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\bin\Debug\Tarea 05.xml
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea_05.frnTarea05.resources
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea_05.Resources.resources
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea 05.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea 05.exe
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea 05.xml
+C:\DAM\ACDA\UT1\3. HERRAMIENTAS DE MAPEO (LINQ)\Ejercicio\Tarea 05\Tarea 05\obj\x86\Debug\Tarea 05.pdb
