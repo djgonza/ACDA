@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\bin\Debug\Ejercicio clase Path.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\bin\Debug\Ejercicio clase Path.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\bin\Debug\Ejercicio clase Path.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio_clase_Path.Form1.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio_clase_Path.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio clase Path.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio clase Path.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio clase Path.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Ejercicio clase Path\Ejercicio clase Path\obj\x86\Debug\Ejercicio clase Path.pdb

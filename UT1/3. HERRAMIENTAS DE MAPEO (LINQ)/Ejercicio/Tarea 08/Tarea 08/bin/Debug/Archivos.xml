@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Este documento XML representa el arbol de archivos de la ruta -->
+<Archivos>
+  <Archivo isReadonly="false">
+    <Nombre>Hola.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\Hola.txt</NombreCompleto>
+    <Carpeta>Hola.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+  <Archivo isReadonly="false">
+    <Nombre>Prueba para ejercicio.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\Prueba para ejercicio.txt</NombreCompleto>
+    <Carpeta>Prueba para ejercicio.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+  <Archivo isReadonly="false">
+    <Nombre>Prueba2.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\Prueba2.txt</NombreCompleto>
+    <Carpeta>Prueba2.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+  <Archivo isReadonly="false">
+    <Nombre>Tarea 08 pruebas ACDA.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\Tarea 08 pruebas ACDA.txt</NombreCompleto>
+    <Carpeta>Tarea 08 pruebas ACDA.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+  <Archivo isReadonly="false">
+    <Nombre>weerw.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\weerw.txt</NombreCompleto>
+    <Carpeta>weerw.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+  <Archivo isReadonly="false">
+    <Nombre>wewreewf.txt</Nombre>
+    <Extensión>.txt</Extensión>
+    <NombreCompleto>C:\DAM\wewreewf.txt</NombreCompleto>
+    <Carpeta>wewreewf.txt</Carpeta>
+    <Tamaño>68</Tamaño>
+  </Archivo>
+</Archivos>

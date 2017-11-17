@@ -39,6 +39,9 @@ Public Class Form1
     End Sub
 
     Private Sub TextBox1_TextChanged(sender As System.Object, e As System.EventArgs) Handles TextBox1.TextChanged
+        'Cargamos la solucion
+        Dim xmlCargado = XDocument.Load("coches.xml")
 
+        .Text = xmlCargado.ToString
     End Sub
 End Class

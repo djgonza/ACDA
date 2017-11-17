@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bailes>
+  <nuevoNodo>
+    <id>1</id>
+    <nombre>Tango</nombre>
+    <plazas>16</plazas>
+    <profesor>Juan Diego</profesor>
+  </nuevoNodo>
+  <nuevoNodo>
+    <id>2</id>
+    <nombre>Cha-cha-cha</nombre>
+    <plazas>12</plazas>
+    <profesor>Maitetxu</profesor>
+  </nuevoNodo>
+  <nuevoNodo>
+    <id>3</id>
+    <nombre>Rock</nombre>
+    <plazas>15</plazas>
+    <profesor>Saioa</profesor>
+  </nuevoNodo>
+  <nuevoNodo>
+    <id>4</id>
+    <nombre>Bachata</nombre>
+    <plazas>18</plazas>
+    <profesor>Paco</profesor>
+  </nuevoNodo>
+  <nuevoNodo>
+    <id>5</id>
+    <nombre>Salsa</nombre>
+    <plazas>22</plazas>
+    <profesor>Marieta</profesor>
+  </nuevoNodo>
+  <nuevoNodo>
+    <id>6</id>
+    <nombre>Pasodoble</nombre>
+    <plazas>12</plazas>
+    <profesor>Fatima</profesor>
+  </nuevoNodo>
+</Bailes>
