@@ -3,7 +3,6 @@
 Public Class Form1
 
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-        '¿ASÍ MEJOR? ;)
         'Cargamos la solucion
         Dim xmlCargado = XDocument.Load("bailes.xml")
         rtbOriginal.Text = xmlCargado.ToString
@@ -35,7 +34,6 @@ Public Class Form1
         MessageBox.Show("Documento Actividades2.xml creado!!!")
 
         'Cargamos la solucion
-        Dim xmlCargado = XDocument.Load("Actividades2.xml")
-        rtbResultado.Text = xmlCargado.ToString
+        rtbResultado.Text = doc.ToString
     End Sub
 End Class

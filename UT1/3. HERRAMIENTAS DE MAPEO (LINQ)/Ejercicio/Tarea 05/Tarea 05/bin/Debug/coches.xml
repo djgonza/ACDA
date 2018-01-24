@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!-- Este documento XML representa el inventario de coches -->
 <coches>
+  <coches>
+    <coche marca="BMW">
+      <modelo>ewfe</modelo>
+      <potencia>7875CV</potencia>
+    </coche>
+  </coches>
   <coche marca="BMW">
     <modelo>520</modelo>
     <potencia>125CV</potencia>
@@ -21,4 +27,10 @@
     <modelo>C5</modelo>
     <potencia>135CV</potencia>
   </coche>
+  <coches>
+    <coche marca="Mercedes">
+      <modelo>burro</modelo>
+      <potencia>7CV</potencia>
+    </coche>
+  </coches>
 </coches>

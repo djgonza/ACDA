@@ -1,0 +1,42 @@
+D:\Desktop\01 json\01 json\obj\Debug\WindowsApplication1.Form1.resources
+D:\Desktop\01 json\01 json\obj\Debug\WindowsApplication1.Resources.resources
+D:\Desktop\01 json\01 json\obj\Debug\01 json.vbproj.GenerateResource.Cache
+D:\Desktop\01 json\01 json\bin\Debug\01 json.exe
+D:\Desktop\01 json\01 json\bin\Debug\01 json.pdb
+D:\Desktop\01 json\01 json\bin\Debug\01 json.xml
+D:\Desktop\01 json\01 json\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\01 json\01 json\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\01 json\01 json\obj\Debug\01 json.vbprojResolveAssemblyReference.cache
+D:\Desktop\01 json\01 json\obj\Debug\01 json.exe
+D:\Desktop\01 json\01 json\obj\Debug\01 json.xml
+D:\Desktop\01 json\01 json\obj\Debug\01 json.pdb
+D:\Desktop\01 json\01 json\bin\Debug\01 json.exe.config
+D:\Desktop\01 json\01 json\obj\Debug\01 json.vbproj.CoreCompileInputs.cache
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\01 json.exe.config
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\01 json.exe
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\01 json.pdb
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\01 json.xml
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.vbprojResolveAssemblyReference.cache
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\WindowsApplication1.Resources.resources
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.vbproj.GenerateResource.Cache
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.vbproj.CoreCompileInputs.cache
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.exe
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.xml
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\01 json.pdb
+D:\Dropbox\IDEs\Visual Studio 2017\01 json\01 json\obj\Debug\WindowsApplication1.frmPrincipal.resources
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\01 json.exe.config
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\01 json.exe
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\01 json.pdb
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\01 json.xml
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\Newtonsoft.Json.dll
+E:\2DAM\ACDA\01_json\01 json\bin\Debug\Newtonsoft.Json.xml
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.vbprojResolveAssemblyReference.cache
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\WindowsApplication1.frmPrincipal.resources
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\WindowsApplication1.Resources.resources
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.vbproj.GenerateResource.Cache
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.vbproj.CoreCompileInputs.cache
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.exe
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.xml
+E:\2DAM\ACDA\01_json\01 json\obj\Debug\01 json.pdb

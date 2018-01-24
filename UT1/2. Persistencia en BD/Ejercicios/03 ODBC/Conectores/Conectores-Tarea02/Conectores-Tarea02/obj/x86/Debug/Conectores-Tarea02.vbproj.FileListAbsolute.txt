@@ -1,0 +1,11 @@
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\bin\Debug\Conectores-Tarea02.exe.config
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\bin\Debug\Conectores-Tarea02.exe
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\bin\Debug\Conectores-Tarea02.pdb
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\bin\Debug\Conectores-Tarea02.xml
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores_Tarea02.Form1.resources
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores_Tarea02.Resources.resources
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores-Tarea02.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores-Tarea02.exe
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores-Tarea02.xml
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\obj\x86\Debug\Conectores-Tarea02.pdb
+C:\DAM\ACDA\UT1\2. Persistencia en BD\Ejercicios\03 ODBC\Conectores\Conectores-Tarea02\Conectores-Tarea02\bin\Debug\DATOS.MDB

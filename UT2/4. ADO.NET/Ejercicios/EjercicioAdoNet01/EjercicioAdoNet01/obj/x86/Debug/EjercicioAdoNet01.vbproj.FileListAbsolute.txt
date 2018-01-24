@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\bin\Debug\EjercicioAdoNet01.exe
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\bin\Debug\EjercicioAdoNet01.pdb
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\bin\Debug\EjercicioAdoNet01.xml
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.Form1.resources
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.Resources.resources
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.exe
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.xml
+C:\DAM\ACDA\UT2\4. ADO.NET\Ejercicios\EjercicioAdoNet01\EjercicioAdoNet01\obj\x86\Debug\EjercicioAdoNet01.pdb

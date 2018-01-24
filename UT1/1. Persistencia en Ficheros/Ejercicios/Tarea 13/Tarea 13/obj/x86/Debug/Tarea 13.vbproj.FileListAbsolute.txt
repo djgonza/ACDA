@@ -1,0 +1,9 @@
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\bin\Debug\Tarea 13.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\bin\Debug\Tarea 13.pdb
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\bin\Debug\Tarea 13.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea_13.frnTarea13.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea_13.Resources.resources
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea 13.vbproj.GenerateResource.Cache
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea 13.exe
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea 13.xml
+C:\DAM\ACDA\UT1\1. Persistencia en Ficheros\Ejercicios\Tarea 13\Tarea 13\obj\x86\Debug\Tarea 13.pdb

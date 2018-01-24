@@ -4,33 +4,6 @@ Imports System.IO
 Public Class frnTarea05
 
     Private Sub frnTarea05_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-        Dim doc As XDocument = <?xml version='1.0'?>
-                               <!-- Este documento XML representa el inventario de coches -->
-                               <coches>
-                                   <coche marca="BMW">
-                                       <modelo>520</modelo>
-                                       <potencia>125CV</potencia>
-                                   </coche>
-                                   <coche marca="BMW">
-                                       <modelo>525</modelo>
-                                       <potencia>135CV</potencia>
-                                   </coche>
-                                   <coche marca="Citroen">
-                                       <modelo>C3</modelo>
-                                       <potencia>75CV</potencia>
-                                   </coche>
-                                   <coche marca="Citroen">
-                                       <modelo>C4</modelo>
-                                       <potencia>115CV</potencia>
-                                   </coche>
-                                   <coche marca="Citroen">
-                                       <modelo>C5</modelo>
-                                       <potencia>135CV</potencia>
-                                   </coche>
-                               </coches>
-        doc.Save("coches.xml")
-        Console.WriteLine(File.ReadAllText("coches.xml"))
-
         'Cargamos la solucion
         Dim xmlCargado = XDocument.Load("coches.xml")
         rtbOriginal.Text = xmlCargado.ToString
@@ -55,37 +28,17 @@ Public Class frnTarea05
                 </coche>
             </coches>
 
-        Dim xmlTree As XElement = _
-            <coches>
-                <coche marca="BMW">
-                    <modelo>520</modelo>
-                    <potencia>125CV</potencia>
-                </coche>
-                <coche marca="BMW">
-                    <modelo>525</modelo>
-                    <potencia>135CV</potencia>
-                </coche>
-                <coche marca="Citroen">
-                    <modelo>C3</modelo>
-                    <potencia>75CV</potencia>
-                </coche>
-                <coche marca="Citroen">
-                    <modelo>C4</modelo>
-                    <potencia>115CV</potencia>
-                </coche>
-                <coche marca="Citroen">
-                    <modelo>C5</modelo>
-                    <potencia>135CV</potencia>
-                </coche>
-            </coches>
+        Dim xmlCargado = XDocument.Load("coches.xml")
+       
         If rbtFinal.Checked Then
-            xmlTree.Add(nuevo)
+            xmlCargado.Root.Add(nuevo)
         Else
-            xmlTree.AddFirst(nuevo)
+            xmlCargado.Root.AddFirst(nuevo)
         End If
 
-        Console.WriteLine(xmlTree)
-        rtbAñadido.Text = xmlTree.ToString
+        Console.WriteLine(xmlCargado)
+        rtbAñadido.Text = xmlCargado.ToString
+        'xmlCargado.Save("coches.xml")
     End Sub
     
 End Class
